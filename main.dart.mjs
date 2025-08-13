@@ -2447,7 +2447,6 @@ class CompiledApp {
 "TextLeadingDistribution.",
 "FontStyle.",
 "Online Tally Counter",
-"Online Counter",
 "system",
 "ThemeMode.",
 "_heroController",

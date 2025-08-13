@@ -52741,7 +52741,7 @@ return B.c.az(r,s)},
 $S:349}
 A.yO.prototype={
 O(a){var s=null
-return new A.q7(B.BU,"Online Counter",A.a2Y(s,A.a4R(B.I,s,s,B.BG),s),s)}}
+return new A.q7(B.BU,"Online Tally Counter",A.a2Y(s,A.a4R(B.I,s,s,B.BG),s),s)}}
 A.qk.prototype={
 an(){return new A.uf()}}
 A.uf.prototype={
