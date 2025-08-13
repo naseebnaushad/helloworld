@@ -52753,7 +52753,7 @@ p=o==null?p.c:o
 r.a.toString
 o=A.a7h("Online Tally Counter",q)
 s=t.nA
-return new A.ri(new A.oa(o,p,new A.EL(q,q,1/0,56),q),A.wF(A.acP(A.b([B.Jn,A.mB(q,40,q),A.a7h(""+r.d,A.aD(a).ok.e),A.mB(q,35,q),A.a6R(A.b([A.a20(B.yd,r.gNP(),"Increment"),A.mB(q,q,20),A.a20(B.ye,r.gL4(),"Decrement")],s),B.b4,B.fO,B.fP),A.mB(q,20,q),A.a20(B.yf,r.gPF(),"Reset")],s),B.fO),q,q),q)}}
+return new A.ri(new A.oa(o,p,new A.EL(q,q,1/0,56),q),A.wF(A.acP(A.b([B.Jn,A.mB(q,40,q),A.a7h(""+r.d,A.aD(a).ok.e),A.mB(q,35,q),A.a6R(A.b([A.a20(B.yd,r.gNP(),"+1"),A.mB(q,q,20),A.a20(B.ye,r.gL4(),"-1")],s),B.b4,B.fO,B.fP),A.mB(q,20,q),A.a20(B.yf,r.gPF(),"Reset")],s),B.fO),q,q),q)}}
 A.Z1.prototype={
 $0(){++this.a.d},
 $S:0}
