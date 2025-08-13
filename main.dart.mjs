@@ -2775,7 +2775,7 @@ class CompiledApp {
 "Ew==",
 "GlobalObjectKey",
 "<State<StatefulWidget>>",
-"Counter:",
+"Tally Counter:",
 "+1",
 "-1",
 "max",
