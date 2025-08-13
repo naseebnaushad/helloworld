@@ -2446,6 +2446,7 @@ class CompiledApp {
 "even",
 "TextLeadingDistribution.",
 "FontStyle.",
+"Online Tally Counter",
 "Online Counter",
 "system",
 "ThemeMode.",
